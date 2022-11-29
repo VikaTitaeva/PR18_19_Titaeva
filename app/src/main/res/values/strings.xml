@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Titaeva_pr18-19</string>
+    <string name="action_one">Языки программирования</string>
+    <string name="action_two">Python</string>
+    <string name="action_three">Java</string>
+    <string name="action_four">C++</string>
+</resources>
